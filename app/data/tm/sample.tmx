@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.4">
+  <header
+    creationtool="XYZ-Tool"
+    creationtoolversion="1.0"
+    segtype="sentence"
+    o-tmf="tmx"
+    adminlang="en-us"
+    srclang="en-IN"
+    datatype="plaintext"
+    creationdate="20240522T124500Z"
+    creationid="admin"
+    changedate="20240522T124500Z"
+    changeid="admin">
+  </header>
+  <body>
+    <!-- English to Hindi translations -->
+    <tu>
+      <tuv xml:lang="en-IN">
+        <seg>Welcome to our service</seg>
+      </tuv>
+      <tuv xml:lang="hi-IN">
+        <seg>हमारी सेवा में आपका स्वागत है</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-IN">
+        <seg>Please enter your details</seg>
+      </tuv>
+      <tuv xml:lang="hi-IN">
+        <seg>कृपया अपना विवरण दर्ज करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-IN">
+        <seg>Thank you for your submission</seg>
+      </tuv>
+      <tuv xml:lang="hi-IN">
+        <seg>आपके सबमिशन के लिए धन्यवाद</seg>
+      </tuv>
+    </tu>
+
+    <!-- English to Tamil translations -->
+    <tu>
+      <tuv xml:lang="en-IN">
+        <seg>Welcome to our service</seg>
+      </tuv>
+      <tuv xml:lang="ta-IN">
+        <seg>எங்கள் சேவைக்கு வரவேற்கிறோம்</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-IN">
+        <seg>Please enter your details</seg>
+      </tuv>
+      <tuv xml:lang="ta-IN">
+        <seg>உங்கள் விவரங்களை உள்ளிடவும்</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-IN">
+        <seg>Thank you for your submission</seg>
+      </tuv>
+      <tuv xml:lang="ta-IN">
+        <seg>உங்கள் சமர்ப்பிப்புக்கு நன்றி</seg>
+      </tuv>
+    </tu>
+
+    <!-- Technical terms -->
+    <tu>
+      <tuv xml:lang="en-IN">
+        <seg>Click here to download</seg>
+      </tuv>
+      <tuv xml:lang="hi-IN">
+        <seg>डाउनलोड करने के लिए यहां क्लिक करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-IN">
+        <seg>Please upload your file</seg>
+      </tuv>
+      <tuv xml:lang="hi-IN">
+        <seg>कृपया अपनी फ़ाइल अपलोड करें</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx> 
