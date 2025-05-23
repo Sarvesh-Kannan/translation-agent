@@ -1,0 +1,2556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header
+    creationtool="NodeScript"
+    creationtoolversion="1.0"
+    segtype="sentence"
+    adminlang="en-us"
+    srclang="en"
+    datatype="plaintext"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mail</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092E\u0947\u0932</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mail Application</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092E\u0947\u0932 \u090F\u092A\u094D\u0932\u093F\u0915\u0947\u0936\u0928</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Version</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u0902\u0938\u094D\u0915\u0930\u0923</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Loading...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0932\u094B\u0921 \u0939\u094B \u0930\u0939\u093E \u0939\u0948...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Error</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0924\u094D\u0930\u0941\u091F\u093F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Success</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u092B\u0932\u0924\u093E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u091A\u0947\u0924\u093E\u0935\u0928\u0940</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Information</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u091C\u093E\u0928\u0915\u093E\u0930\u0940</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Inbox</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0907\u0928\u092C\u0949\u0915\u094D\u0938</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sent</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092D\u0947\u091C\u0947 \u0917\u090F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Drafts</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0921\u094D\u0930\u093E\u092B\u094D\u091F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Trash</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0915\u0942\u0921\u093C\u0947\u0926\u093E\u0928</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Spam</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u094D\u092A\u0948\u092E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Starred</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0924\u093E\u0930\u093E\u0902\u0915\u093F\u0924</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Important</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092E\u0939\u0924\u094D\u0935\u092A\u0942\u0930\u094D\u0923</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Archive</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0906\u0930\u094D\u0915\u093E\u0907\u0935</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Folders</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092B\u094B\u0932\u094D\u0921\u0930</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Labels</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0932\u0947\u092C\u0932</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Contacts</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u0902\u092A\u0930\u094D\u0915</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Settings</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u0947\u091F\u093F\u0902\u0917\u094D\u0938</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>New Email</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0928\u090F \u092E\u0947\u0932</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Compose</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0932\u093F\u0916\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u0947\u0935\u093E \u092E\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>CC</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u0940\u0938\u0940</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>BCC</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092C\u0940\u0938\u0940\u0938\u0940</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Subject</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0935\u093F\u0937\u092F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Message</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u0902\u0926\u0947\u0936</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Send</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092D\u0947\u091C\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Save Draft</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0921\u094D\u0930\u093E\u092B\u094D\u091F \u0938\u0947\u0935 \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Discard</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0930\u0926\u094D\u0926 \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Attach File</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092B\u093E\u0907\u0932 \u0905\u091F\u0948\u091A \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Link</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0932\u093F\u0902\u0915 \u0921\u093E\u0932\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Image</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u091A\u093F\u0924\u094D\u0930 \u0921\u093E\u0932\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Formatting</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092B\u0949\u0930\u092E\u0948\u091F\u093F\u0902\u0917</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bold</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092C\u094B\u0932\u094D\u0921</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Italic</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0907\u091F\u0948\u0932\u093F\u0915</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Underline</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0905\u0902\u0921\u0930\u0932\u093E\u0907\u0928</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Font Size</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092B\u0949\u0928\u094D\u091F \u0938\u093E\u0907\u091C\u093C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Font Color</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092B\u0949\u0928\u094D\u091F \u0915\u093E \u0930\u0902\u0917</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Background Color</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092C\u0948\u0915\u0917\u094D\u0930\u093E\u0909\u0902\u0921 \u0915\u093E \u0930\u0902\u0917</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Align Left</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092C\u093E\u090F\u0902 \u0905\u0932\u093E\u0907\u0928 \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Align Center</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0915\u0947\u0902\u0926\u094D\u0930 \u092E\u0947\u0902 \u0905\u0932\u093E\u0907\u0928 \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Align Right</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0926\u093E\u090F\u0902 \u0905\u0932\u093E\u0907\u0928 \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bullet List</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092C\u0941\u0932\u0947\u091F \u0932\u093F\u0938\u094D\u091F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Numbered List</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0928\u0902\u092C\u0930\u094D\u0921 \u0932\u093F\u0938\u094D\u091F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Schedule Send</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u0902\u0915\u0947\u0924\u093F\u0924 \u0938\u092E\u092F \u092A\u0930 \u092D\u0947\u091C\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Send Later</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092C\u093E\u0926 \u092E\u0947\u0902 \u092D\u0947\u091C\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>High Priority</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0909\u091A\u094D\u091A \u092A\u094D\u0930\u093E\u0925\u092E\u093F\u0915\u0924\u093E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Normal Priority</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u093E\u092E\u093E\u0928\u094D\u092F \u092A\u094D\u0930\u093E\u0925\u092E\u093F\u0915\u0924\u093E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Low Priority</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0915\u092E \u092A\u094D\u0930\u093E\u0925\u092E\u093F\u0915\u0924\u093E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select All</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u092D\u0940 \u0915\u093E \u091A\u092F\u0928 \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Deselect All</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u092D\u0940 \u0915\u093E \u091A\u092F\u0928 \u0939\u091F\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mark as Read</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092A\u0922\u093C\u093E \u0917\u092F\u093E \u0915\u0947 \u0930\u0942\u092A \u092E\u0947\u0902 \u091A\u093F\u0939\u094D\u0928\u093F\u0924 \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mark as Unread</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0905\u0928\u092A\u0922\u093C\u093E \u0915\u0947 \u0930\u0942\u092A \u092E\u0947\u0902 \u091A\u093F\u0939\u094D\u0928\u093F\u0924 \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Star</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0924\u093E\u0930\u093E \u0932\u0917\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Unstar</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0924\u093E\u0930\u093E \u0939\u091F\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mark as Important</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092E\u0939\u0924\u094D\u0935\u092A\u0942\u0930\u094D\u0923 \u091A\u093F\u0939\u094D\u0928\u093F\u0924 \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Unmark as Important</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092E\u0939\u0924\u094D\u0935\u092A\u0942\u0930\u094D\u0923 \u091A\u093F\u0939\u094D\u0928 \u0939\u091F\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0921\u093F\u0932\u0940\u091F \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Archive</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0906\u0930\u094D\u0915\u093E\u0907\u0935 \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Move to</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092F\u0939\u093E\u0902 \u0932\u0947 \u091C\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Label</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0932\u0947\u092C\u0932</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Snooze</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u094D\u0928\u0942\u091C\u093C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Forward</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0906\u0917\u0947 \u092D\u0947\u091C\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reply</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u091C\u0935\u093E\u092C \u0926\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reply All</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u092D\u0940 \u0915\u094B \u091C\u0935\u093E\u092C \u0926\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Print</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092A\u094D\u0930\u093F\u0902\u091F \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Download</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0921\u093E\u0909\u0928\u0932\u094B\u0921 \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sort by</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0907\u0938 \u0906\u0927\u093E\u0930 \u092A\u0930 \u0915\u094D\u0930\u092E\u092C\u0926\u094D\u0927 \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Date</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0924\u093E\u0930\u0940\u0916</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sender</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092D\u0947\u091C\u0928\u0947 \u0935\u093E\u0932\u093E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Subject</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0935\u093F\u0937\u092F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Size</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0906\u0915\u093E\u0930</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ascending</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0906\u0930\u094B\u0939\u0940</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Descending</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0905\u0935\u0930\u094B\u0939\u0940</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Refresh</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0930\u093F\u092B\u094D\u0930\u0947\u0936 \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Search</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0916\u094B\u091C\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Filter</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092B\u093F\u0932\u094D\u091F\u0930</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Show All</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u092D\u0940 \u0926\u093F\u0916\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Show Unread</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0905\u0928\u092A\u0922\u093C\u0947 \u0926\u093F\u0916\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Show Starred</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0924\u093E\u0930\u093E\u0902\u0915\u093F\u0924 \u0926\u093F\u0916\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>From</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0915\u093F\u0938\u0915\u0940 \u0913\u0930 \u0938\u0947</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0915\u093F\u0938\u0915\u094B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Date</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0924\u093E\u0930\u0940\u0916</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Subject</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0935\u093F\u0937\u092F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Attachments</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0905\u0924\u093E\u091A\u092E\u0947\u0902\u091F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Download All</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u092D\u0940 \u0921\u093E\u0909\u0928\u0932\u094B\u0921 \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reply</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u091C\u0935\u093E\u092C \u0926\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reply All</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u092D\u0940 \u0915\u094B \u091C\u0935\u093E\u092C \u0926\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Forward</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0906\u0917\u0947 \u092D\u0947\u091C\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0921\u093F\u0932\u0940\u091F \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Archive</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0906\u0930\u094D\u0915\u093E\u0907\u0935 \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Star</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0924\u093E\u0930\u093E \u0932\u0917\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Unstar</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0924\u093E\u0930\u093E \u0939\u091F\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mark as Spam</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u094D\u092A\u0948\u092E \u0915\u0947 \u0930\u0942\u092A \u092E\u0947\u0902 \u091A\u093F\u0939\u094D\u0928\u093F\u0924 \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Not Spam</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u094D\u092A\u0948\u092E \u0928\u0939\u0940\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Previous</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092A\u093F\u091B\u0932\u093E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Next</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0905\u0917\u0932\u093E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Back to List</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u0942\u091A\u0940 \u092E\u0947\u0902 \u0935\u093E\u092A\u0938 \u091C\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Show Original</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092E\u0942\u0932 \u0926\u093F\u0916\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Show Details</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0935\u093F\u0935\u0930\u0923 \u0926\u093F\u0916\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hide Details</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0935\u093F\u0935\u0930\u0923 \u091B\u093F\u092A\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Print</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092A\u094D\u0930\u093F\u0902\u091F \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add to Contacts</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u0902\u092A\u0930\u094D\u0915 \u092E\u0947\u0902 \u091C\u094B\u0921\u093C\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Attachments</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0905\u0924\u093E\u091A\u092E\u0947\u0902\u091F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Attach</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0905\u0924\u093E\u091A \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0939\u091F\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Download</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0921\u093E\u0909\u0928\u0932\u094B\u0921 \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Preview</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092A\u0942\u0930\u094D\u0935\u093E\u0935\u0932\u094B\u0915\u0928</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>File Size</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092B\u093E\u0907\u0932 \u0915\u093E \u0906\u0915\u093E\u0930</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>File Type</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092B\u093E\u0907\u0932 \u0915\u093E \u092A\u094D\u0930\u0915\u093E\u0930</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Upload Progress</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0905\u092A\u0932\u094B\u0921 \u092A\u094D\u0930\u0917\u0924\u093F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Upload Complete</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0905\u092A\u0932\u094B\u0921 \u092A\u0942\u0930\u093E \u0939\u094B \u0917\u092F\u093E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Upload Failed</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0905\u092A\u0932\u094B\u0921 \u0905\u0938\u092B\u0932</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Maximum file size exceeded</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0905\u0927\u093F\u0915\u0924\u092E \u092B\u093E\u0907\u0932 \u0906\u0915\u093E\u0930 \u092A\u093E\u0930 \u0939\u094B \u0917\u092F\u093E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Invalid file type</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0905\u092E\u093E\u0928\u094D\u092F \u092B\u093E\u0907\u0932 \u092A\u094D\u0930\u0915\u093E\u0930</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Drag and drop files here or click to browse</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092B\u093E\u0907\u0932\u094B\u0902 \u0915\u094B \u092F\u0939\u093E\u0902 \u0916\u0940\u0902\u091A\u0947\u0902 \u0914\u0930 \u091B\u094B\u0921\u093C\u0947\u0902 \u092F\u093E \u092C\u094D\u0930\u093E\u0909\u091C\u093C \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093F\u090F \u0915\u094D\u0932\u093F\u0915 \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Search</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0916\u094B\u091C\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Search Mail</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092E\u0947\u0932 \u0916\u094B\u091C\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Advanced Search</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0909\u0928\u094D\u0928\u0924 \u0916\u094B\u091C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>From</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0915\u093F\u0938\u0915\u0940 \u0913\u0930 \u0938\u0947</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0915\u093F\u0938\u0915\u094B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Subject</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0935\u093F\u0937\u092F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Message Body</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u0902\u0926\u0947\u0936 \u092E\u0941\u0916\u094D\u092F \u092D\u093E\u0917</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Date</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0924\u093E\u0930\u0940\u0916</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Date Range</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0924\u093E\u0930\u0940\u0916 \u0915\u0940 \u0930\u0947\u0902\u091C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Has Attachment</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0905\u0924\u093E\u091A\u092E\u0947\u0902\u091F \u0915\u0947 \u0938\u093E\u0925</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Search Results</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0916\u094B\u091C \u092A\u0930\u093F\u0923\u093E\u092E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No results found</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0915\u094B\u0908 \u092A\u0930\u093F\u0923\u093E\u092E \u0928\u0939\u0940\u0902 \u092E\u093F\u0932\u093E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Clear Search</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0916\u094B\u091C \u0938\u093E\u092B \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Save Search</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0916\u094B\u091C \u0938\u0947\u0935 \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Recent Searches</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0939\u093E\u0932 \u0915\u0940 \u0916\u094B\u091C\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create Folder</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092B\u094B\u0932\u094D\u0921\u0930 \u092C\u0928\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rename Folder</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092B\u094B\u0932\u094D\u0921\u0930 \u0915\u093E \u0928\u093E\u092E \u092C\u0926\u0932\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete Folder</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092B\u094B\u0932\u094D\u0921\u0930 \u0921\u093F\u0932\u0940\u091F \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Folder Name</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092B\u094B\u0932\u094D\u0921\u0930 \u0915\u093E \u0928\u093E\u092E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Parent Folder</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092E\u0942\u0932 \u092B\u094B\u0932\u094D\u0921\u0930</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Move to Folder</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092B\u094B\u0932\u094D\u0921\u0930 \u092E\u0947\u0902 \u0932\u0947 \u091C\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Empty Folder</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0916\u093E\u0932\u0940 \u092B\u094B\u0932\u094D\u0921\u0930</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This folder is empty</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092F\u0939 \u092B\u094B\u0932\u094D\u0921\u0930 \u0916\u093E\u0932\u0940 \u0939\u0948</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Custom Folders</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0915\u0938\u094D\u091F\u092E \u092B\u094B\u0932\u094D\u0921\u0930</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>System Folders</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u093F\u0938\u094D\u091F\u092E \u092B\u094B\u0932\u094D\u0921\u0930</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create Label</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0932\u0947\u092C\u0932 \u092C\u0928\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit Label</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0932\u0947\u092C\u0932 \u0938\u0902\u092A\u093E\u0926\u093F\u0924 \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete Label</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0932\u0947\u092C\u0932 \u0921\u093F\u0932\u0940\u091F \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Label Name</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0932\u0947\u092C\u0932 \u0915\u093E \u0928\u093E\u092E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Label Color</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0932\u0947\u092C\u0932 \u0915\u093E \u0930\u0902\u0917</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Apply Label</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0932\u0947\u092C\u0932 \u0932\u0917\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Remove Label</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0932\u0947\u092C\u0932 \u0939\u091F\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Manage Labels</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0932\u0947\u092C\u0932 \u092A\u094D\u0930\u092C\u0902\u0927\u093F\u0924 \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No labels applied</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0915\u094B\u0908 \u0932\u0947\u092C\u0932 \u0932\u093E\u0917\u0942 \u0928\u0939\u0940\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Contacts</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u0902\u092A\u0930\u094D\u0915</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add Contact</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u0902\u092A\u0930\u094D\u0915 \u091C\u094B\u0921\u093C\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit Contact</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u0902\u092A\u0930\u094D\u0915 \u0938\u0902\u092A\u093E\u0926\u093F\u0924 \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete Contact</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u0902\u092A\u0930\u094D\u0915 \u0921\u093F\u0932\u0940\u091F \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>First Name</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092A\u0939\u0932\u093E \u0928\u093E\u092E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Last Name</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0905\u0902\u0924\u093F\u092E \u0928\u093E\u092E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Email Address</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0908\u092E\u0947\u0932 \u092A\u0924\u093E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Phone Number</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092B\u094B\u0928 \u0928\u0902\u092C\u0930</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Company</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0915\u0902\u092A\u0928\u0940</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Notes</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0928\u094B\u091F\u094D\u0938</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Groups</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0917\u094D\u0930\u0941\u092A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create Group</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0917\u094D\u0930\u0941\u092A \u092C\u0928\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Contact Details</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u0902\u092A\u0930\u094D\u0915 \u0935\u093F\u0935\u0930\u0923</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Recent Contacts</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0939\u093E\u0932 \u0915\u0947 \u0938\u0902\u092A\u0930\u094D\u0915</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Frequent Contacts</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0905\u0915\u094D\u0938\u0930 \u0909\u092A\u092F\u094B\u0917 \u0915\u093F\u090F \u091C\u093E\u0928\u0947 \u0935\u093E\u0932\u0947 \u0938\u0902\u092A\u0930\u094D\u0915</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Settings</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u0947\u091F\u093F\u0902\u0917\u094D\u0938</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>General</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u093E\u092E\u093E\u0928\u094D\u092F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Accounts</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0916\u093E\u0924\u0947</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Security</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u0941\u0930\u0915\u094D\u0937\u093E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Notifications</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u0942\u091A\u0928\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Appearance</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0926\u093F\u0916\u093E\u0935\u091F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Filters</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092B\u093F\u0932\u094D\u091F\u0930</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Signatures</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0939\u0938\u094D\u0924\u093E\u0915\u094D\u0937\u0930</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Auto Reply</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0911\u091F\u094B \u0930\u093F\u092A\u094D\u0932\u093E\u0908</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Forwarding</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092B\u0949\u0930\u0935\u0930\u094D\u0921\u093F\u0902\u0917</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Import/Export</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0907\u0902\u092A\u094B\u0930\u094D\u091F/\u090F\u0915\u094D\u0938\u092A\u094B\u0930\u094D\u091F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Language</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092D\u093E\u0937\u093E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Timezone</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u092E\u092F \u0915\u094D\u0937\u0947\u0924\u094D\u0930</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Date Format</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0924\u093E\u0930\u0940\u0916 \u092A\u094D\u0930\u093E\u0930\u0942\u092A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Time Format</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u092E\u092F \u092A\u094D\u0930\u093E\u0930\u0942\u092A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Theme</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0925\u0940\u092E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Light Theme</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0939\u0932\u094D\u0915\u093E \u0925\u0940\u092E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Dark Theme</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0917\u0939\u0930\u093E \u0925\u0940\u092E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Auto Theme</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0911\u091F\u094B \u0925\u0940\u092E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Font Size</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092B\u0949\u0928\u094D\u091F \u0938\u093E\u0907\u091C\u093C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Density</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0918\u0928\u0924\u094D\u0935</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Comfortable</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0906\u0930\u093E\u092E\u0926\u093E\u092F\u0915</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cozy</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u0941\u0935\u093F\u0927\u093E\u091C\u0928\u0915</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Compact</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u0902\u0915\u0941\u091A\u093F\u0924</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add Account</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0916\u093E\u0924\u093E \u091C\u094B\u0921\u093C\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Remove Account</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0916\u093E\u0924\u093E \u0939\u091F\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Account Settings</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0916\u093E\u0924\u093E \u0938\u0947\u091F\u093F\u0902\u0917\u094D\u0938</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Display Name</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092A\u094D\u0930\u0926\u0930\u094D\u0936\u093F\u0924 \u0928\u093E\u092E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Email Address</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0908\u092E\u0947\u0932 \u092A\u0924\u093E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Password</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092A\u093E\u0938\u0935\u0930\u094D\u0921</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Server Settings</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u0930\u094D\u0935\u0930 \u0938\u0947\u091F\u093F\u0902\u0917\u094D\u0938</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Incoming Server</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0906\u0928\u0947 \u0935\u093E\u0932\u093E \u0938\u0930\u094D\u0935\u0930</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Outgoing Server</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092C\u093E\u0939\u0930 \u091C\u093E\u0928\u0947 \u0935\u093E\u0932\u093E \u0938\u0930\u094D\u0935\u0930</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Port</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092A\u094B\u0930\u094D\u091F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Security</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u0941\u0930\u0915\u094D\u0937\u093E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Authentication</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092A\u094D\u0930\u092E\u093E\u0923\u0940\u0915\u0930\u0923</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Test Connection</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0915\u0928\u0947\u0915\u094D\u0936\u0928 \u091F\u0947\u0938\u094D\u091F \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Connection Successful</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0915\u0928\u0947\u0915\u094D\u0936\u0928 \u0938\u092B\u0932</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Connection Failed</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0915\u0928\u0947\u0915\u094D\u0936\u0928 \u0905\u0938\u092B\u0932</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sync Settings</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u093F\u0902\u0915 \u0938\u0947\u091F\u093F\u0902\u0917\u094D\u0938</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sync Frequency</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u093F\u0902\u0915 \u0906\u0935\u0943\u0924\u094D\u0924\u093F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sync Period</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u093F\u0902\u0915 \u0905\u0935\u0927\u093F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enable Notifications</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u0942\u091A\u0928\u093E\u090F\u0902 \u0938\u0915\u094D\u0937\u092E \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Desktop Notifications</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0921\u0947\u0938\u094D\u0915\u091F\u0949\u092A \u0938\u0942\u091A\u0928\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sound Notifications</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0927\u094D\u0935\u0928\u093F \u0938\u0942\u091A\u0928\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Email Notifications</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0908\u092E\u0947\u0932 \u0938\u0942\u091A\u0928\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>New Mail Sound</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0928\u090F \u092E\u0947\u0932 \u0915\u0940 \u0906\u0935\u093E\u091C\u093C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Show Preview</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092A\u0942\u0930\u094D\u0935\u093E\u0935\u0932\u094B\u0915\u0928 \u0926\u093F\u0916\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Show Badge Count</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092C\u0948\u091C \u0917\u093F\u0928\u0924\u0940 \u0926\u093F\u0916\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Quiet Hours</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0936\u093E\u0902\u0924 \u0938\u092E\u092F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Start Time</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0936\u0941\u0930\u0942 \u0915\u093E \u0938\u092E\u092F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>End Time</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0905\u0902\u0924 \u0915\u093E \u0938\u092E\u092F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Two-Factor Authentication</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0926\u094B-\u0915\u093E\u0930\u0915 \u092A\u094D\u0930\u092E\u093E\u0923\u0940\u0915\u0930\u0923</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change Password</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092A\u093E\u0938\u0935\u0930\u094D\u0921 \u092C\u0926\u0932\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Current Password</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0935\u0930\u094D\u0924\u092E\u093E\u0928 \u092A\u093E\u0938\u0935\u0930\u094D\u0921</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>New Password</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0928\u092F\u093E \u092A\u093E\u0938\u0935\u0930\u094D\u0921</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Confirm Password</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092A\u093E\u0938\u0935\u0930\u094D\u0921 \u0915\u0940 \u092A\u0941\u0937\u094D\u091F\u093F \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Security Questions</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u0941\u0930\u0915\u094D\u0937\u093E \u092A\u094D\u0930\u0936\u094D\u0928</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Backup Codes</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092C\u0948\u0915\u0905\u092A \u0915\u094B\u0921</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Login History</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0932\u0949\u0917\u093F\u0928 \u0907\u0924\u093F\u0939\u093E\u0938</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Active Sessions</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u0915\u094D\u0930\u093F\u092F \u0938\u0924\u094D\u0930</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Revoke Session</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u0924\u094D\u0930 \u0930\u0926\u094D\u0926 \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>App Passwords</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u090F\u092A \u092A\u093E\u0938\u0935\u0930\u094D\u0921</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Generate Password</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092A\u093E\u0938\u0935\u0930\u094D\u0921 \u091C\u0947\u0928\u0930\u0947\u091F \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create Filter</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092B\u093F\u0932\u094D\u091F\u0930 \u092C\u0928\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit Filter</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092B\u093F\u0932\u094D\u091F\u0930 \u0938\u0902\u092A\u093E\u0926\u093F\u0924 \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete Filter</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092B\u093F\u0932\u094D\u091F\u0930 \u0921\u093F\u0932\u0940\u091F \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Filter Name</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092B\u093F\u0932\u094D\u091F\u0930 \u0915\u093E \u0928\u093E\u092E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Conditions</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0936\u0930\u094D\u0924\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Actions</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0915\u093E\u0930\u094D\u092F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If sender</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092F\u0926\u093F \u092D\u0947\u091C\u0928\u0947 \u0935\u093E\u0932\u093E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If recipient</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092F\u0926\u093F \u092A\u094D\u0930\u093E\u092A\u094D\u0924\u0915\u0930\u094D\u0924\u093E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If subject</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092F\u0926\u093F \u0935\u093F\u0937\u092F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If body contains</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092F\u0926\u093F \u092E\u0941\u0916\u094D\u092F \u092D\u093E\u0917 \u092E\u0947\u0902 \u0936\u093E\u092E\u093F\u0932 \u0939\u0948</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Then move to</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0924\u094B \u092F\u0939\u093E\u0902 \u0932\u0947 \u091C\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Then apply label</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0924\u094B \u0932\u0947\u092C\u0932 \u0932\u0917\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Then star</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0924\u094B \u0924\u093E\u0930\u093E \u0932\u0917\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Then delete</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0924\u094B \u0921\u093F\u0932\u0940\u091F \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Then forward to</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0924\u094B \u0906\u0917\u0947 \u092D\u0947\u091C\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Filter Rules</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092B\u093F\u0932\u094D\u091F\u0930 \u0928\u093F\u092F\u092E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create Signature</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0939\u0938\u094D\u0924\u093E\u0915\u094D\u0937\u0930 \u092C\u0928\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit Signature</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0939\u0938\u094D\u0924\u093E\u0915\u094D\u0937\u0930 \u0938\u0902\u092A\u093E\u0926\u093F\u0924 \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete Signature</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0939\u0938\u094D\u0924\u093E\u0915\u094D\u0937\u0930 \u0921\u093F\u0932\u0940\u091F \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Signature Name</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0939\u0938\u094D\u0924\u093E\u0915\u094D\u0937\u0930 \u0915\u093E \u0928\u093E\u092E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Signature Text</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0939\u0938\u094D\u0924\u093E\u0915\u094D\u0937\u0930 \u092A\u093E\u0920</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Default Signature</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0921\u093F\u092B\u0949\u0932\u094D\u091F \u0939\u0938\u094D\u0924\u093E\u0915\u094D\u0937\u0930</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reply Signature</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u091C\u0935\u093E\u092C \u0939\u0938\u094D\u0924\u093E\u0915\u094D\u0937\u0930</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Signature</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0939\u0938\u094D\u0924\u093E\u0915\u094D\u0937\u0930 \u0921\u093E\u0932\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No Signature</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0915\u094B\u0908 \u0939\u0938\u094D\u0924\u093E\u0915\u094D\u0937\u0930 \u0928\u0939\u0940\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Email sent successfully</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0908\u092E\u0947\u0932 \u0938\u092B\u0932\u0924\u093E\u092A\u0942\u0930\u094D\u0935\u0915 \u092D\u0947\u091C\u093E \u0917\u092F\u093E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Draft saved</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0921\u094D\u0930\u093E\u092B\u094D\u091F \u0938\u0947\u0935 \u0939\u094B \u0917\u092F\u093E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Email deleted</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0908\u092E\u0947\u0932 \u0921\u093F\u0932\u0940\u091F \u0939\u094B \u0917\u092F\u093E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Emails deleted</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0908\u092E\u0947\u0932 \u0921\u093F\u0932\u0940\u091F \u0939\u094B \u0917\u0908\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Email archived</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0908\u092E\u0947\u0932 \u0906\u0930\u094D\u0915\u093E\u0907\u0935 \u0939\u094B \u0917\u092F\u093E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Emails archived</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0908\u092E\u0947\u0932 \u0906\u0930\u094D\u0915\u093E\u0907\u0935 \u0939\u094B \u0917\u0908\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Email starred</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0908\u092E\u0947\u0932 \u092E\u0947\u0902 \u0924\u093E\u0930\u093E \u0932\u0917\u093E\u092F\u093E \u0917\u092F\u093E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Email unstarred</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0908\u092E\u0947\u0932 \u0938\u0947 \u0924\u093E\u0930\u093E \u0939\u091F\u093E\u092F\u093E \u0917\u092F\u093E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Email marked as read</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0908\u092E\u0947\u0932 \u0915\u094B \u092A\u0922\u093C\u093E \u0917\u092F\u093E \u0915\u0947 \u0930\u0942\u092A \u092E\u0947\u0902 \u091A\u093F\u0939\u094D\u0928\u093F\u0924 \u0915\u093F\u092F\u093E \u0917\u092F\u093E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Email marked as unread</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0908\u092E\u0947\u0932 \u0915\u094B \u0905\u0928\u092A\u0922\u093C\u093E \u0915\u0947 \u0930\u0942\u092A \u092E\u0947\u0902 \u091A\u093F\u0939\u094D\u0928\u093F\u0924 \u0915\u093F\u092F\u093E \u0917\u092F\u093E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Label applied</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0932\u0947\u092C\u0932 \u0932\u0917\u093E\u092F\u093E \u0917\u092F\u093E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Label removed</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0932\u0947\u092C\u0932 \u0939\u091F\u093E\u092F\u093E \u0917\u092F\u093E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Folder created</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092B\u094B\u0932\u094D\u0921\u0930 \u092C\u0928\u093E\u092F\u093E \u0917\u092F\u093E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Folder deleted</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092B\u094B\u0932\u094D\u0921\u0930 \u0921\u093F\u0932\u0940\u091F \u0939\u094B \u0917\u092F\u093E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Contact added</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u0902\u092A\u0930\u094D\u0915 \u091C\u094B\u0921\u093C\u093E \u0917\u092F\u093E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Contact updated</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u0902\u092A\u0930\u094D\u0915 \u0905\u092A\u0921\u0947\u091F \u0939\u094B \u0917\u092F\u093E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Contact deleted</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u0902\u092A\u0930\u094D\u0915 \u0921\u093F\u0932\u0940\u091F \u0939\u094B \u0917\u092F\u093E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Settings saved</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u0947\u091F\u093F\u0902\u0917\u094D\u0938 \u0938\u0947\u0935 \u0939\u094B \u0917\u0908\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Filter created</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092B\u093F\u0932\u094D\u091F\u0930 \u092C\u0928\u093E\u092F\u093E \u0917\u092F\u093E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Signature saved</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0939\u0938\u094D\u0924\u093E\u0915\u094D\u0937\u0930 \u0938\u0947\u0935 \u0939\u094B \u0917\u092F\u093E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Connection error</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0915\u0928\u0947\u0915\u094D\u0936\u0928 \u0924\u094D\u0930\u0941\u091F\u093F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Server error</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u0930\u094D\u0935\u0930 \u0924\u094D\u0930\u0941\u091F\u093F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Authentication failed</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092A\u094D\u0930\u092E\u093E\u0923\u0940\u0915\u0930\u0923 \u0905\u0938\u092B\u0932</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Invalid email address</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0905\u092E\u093E\u0928\u094D\u092F \u0908\u092E\u0947\u0932 \u092A\u0924\u093E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This field is required</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092F\u0939 \u092B\u093C\u0940\u0932\u094D\u0921 \u0906\u0935\u0936\u094D\u092F\u0915 \u0939\u0948</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Passwords do not match</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092A\u093E\u0938\u0935\u0930\u094D\u0921 \u092E\u0947\u0932 \u0928\u0939\u0940\u0902 \u0916\u093E\u0924\u0947</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Password is too weak</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092A\u093E\u0938\u0935\u0930\u094D\u0921 \u092C\u0939\u0941\u0924 \u0915\u092E\u091C\u093C\u094B\u0930 \u0939\u0948</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>File is too large</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092B\u093E\u0907\u0932 \u092C\u0939\u0941\u0924 \u092C\u0921\u093C\u0940 \u0939\u0948</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Upload failed</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0905\u092A\u0932\u094B\u0921 \u0905\u0938\u092B\u0932</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Failed to send email</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0908\u092E\u0947\u0932 \u092D\u0947\u091C\u0928\u0947 \u092E\u0947\u0902 \u0905\u0938\u092B\u0932</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Failed to save</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u0947\u0935 \u0915\u0930\u0928\u0947 \u092E\u0947\u0902 \u0905\u0938\u092B\u0932</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Failed to delete</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0921\u093F\u0932\u0940\u091F \u0915\u0930\u0928\u0947 \u092E\u0947\u0902 \u0905\u0938\u092B\u0932</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Network error</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0928\u0947\u091F\u0935\u0930\u094D\u0915 \u0924\u094D\u0930\u0941\u091F\u093F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Request timeout</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u092E\u092F \u0938\u092E\u093E\u092A\u094D\u0924\u093F \u0924\u094D\u0930\u0941\u091F\u093F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An unknown error occurred</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0905\u091C\u094D\u091E\u093E\u0924 \u0924\u094D\u0930\u0941\u091F\u093F \u0906\u0908</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OK</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0920\u0940\u0915</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0930\u0926\u094D\u0926 \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Save</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u0947\u0935 \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0921\u093F\u0932\u0940\u091F \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u0902\u092A\u093E\u0926\u093F\u0924 \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092C\u0928\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u091C\u094B\u0921\u093C\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0939\u091F\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Close</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092C\u0902\u0926 \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0916\u094B\u0932\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0939\u093E\u0901</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0928\u0939\u0940\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Confirm</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092A\u0941\u0937\u094D\u091F\u093F \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Apply</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0932\u093E\u0917\u0942 \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reset</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0930\u0940\u0938\u0947\u091F \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u093E\u092B \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u091A\u0941\u0928\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Deselect</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u091A\u092F\u0928 \u0939\u091F\u093E\u090F\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enable</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u0915\u094D\u0937\u092E \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Disable</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0905\u0915\u094D\u0937\u092E \u0915\u0930\u0947\u0902</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0911\u0928</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Off</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0911\u092B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Name</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0928\u093E\u092E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Description</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0935\u093F\u0935\u0930\u0923</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Size</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0906\u0915\u093E\u0930</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Date</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0924\u093E\u0930\u0940\u0916</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Time</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u0938\u092E\u092F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Yesterday</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>\u092C\u0940\u0924\u093E \u0915\u0932</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

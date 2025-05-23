@@ -1,0 +1,1044 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header
+    creationtool="NodeScript"
+    creationtoolversion="1.0"
+    segtype="sentence"
+    adminlang="en-us"
+    srclang="en"
+    datatype="plaintext"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mail</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BAE\u0BC6\u0BAF\u0BBF\u0BB2\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mail Application</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BAE\u0BC6\u0BAF\u0BBF\u0BB2\u0BCD \u0B85\u0BAA\u0BCD\u0BB3\u0BBF\u0B95\u0BC7\u0BB7\u0BA9\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Version</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BAA\u0BA4\u0BBF\u0BAA\u0BCD\u0BAA\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Loading...</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B8F\u0BB1\u0BCD\u0BB1\u0BAA\u0BCD\u0BAA\u0B9F\u0BC1\u0B95\u0BBF\u0BB1\u0BA4\u0BC1...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Error</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BAA\u0BBF\u0BB4\u0BC8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Success</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BB5\u0BC6\u0BB1\u0BCD\u0BB1\u0BBF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B8E\u0B9A\u0BCD\u0B9A\u0BB0\u0BBF\u0B95\u0BCD\u0B95\u0BC8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Information</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BA4\u0B95\u0BB5\u0BB2\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Inbox</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B87\u0BA9\u0BCD\u0BAA\u0BBE\u0B95\u0BCD\u0BB8\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sent</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B85\u0BA9\u0BC1\u0BAA\u0BCD\u0BAA\u0BAA\u0BCD\u0BAA\u0B9F\u0BCD\u0B9F\u0BA4\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Drafts</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BB5\u0BB0\u0BC8\u0BB5\u0BC1\u0B95\u0BB3\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Trash</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B95\u0BC1\u0BAA\u0BCD\u0BAA\u0BC8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Spam</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BB8\u0BCD\u0BAA\u0BBE\u0BAE\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Starred</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BA8\u0B9F\u0BCD\u0B9A\u0BA4\u0BCD\u0BA4\u0BBF\u0BB0\u0B99\u0BCD\u0B95\u0BB3\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Important</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BAE\u0BC1\u0B95\u0BCD\u0B95\u0BBF\u0BAF\u0BAE\u0BBE\u0BA9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Archive</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B86\u0BB0\u0BCD\u0B95\u0BC8\u0BB5\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Folders</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B85\u0BB5\u0BC8\u0B95\u0BB3\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Labels</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BB2\u0BC7\u0BAA\u0BB2\u0BCD\u0B95\u0BB3\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Contacts</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BA4\u0BC7\u0BC1\u0B95\u0BB3\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Settings</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B85\u0BAE\u0BC8\u0BAA\u0BCD\u0BAA\u0BC1\u0B95\u0BB3\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>New Email</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BAA\u0BC1\u0BA4\u0BBF\u0BAF \u0BAE\u0BC6\u0BAF\u0BBF\u0BB2\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Compose</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B8E\u0BB4\u0BC1\u0BA4\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B95\u0BCD\u0B95\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>CC</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BB8\u0BBF\u0BB8\u0BBF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>BCC</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BAA\u0BBF\u0BB8\u0BBF\u0BB8\u0BBF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Subject</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BB5\u0BBF\u0B9F\u0BAF\u0BAE\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Message</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B9A\u0BC6\u0BAF\u0BCD\u0BA4\u0BBF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Send</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B85\u0BA9\u0BC1\u0BAA\u0BCD\u0BAA\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Save Draft</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BB5\u0BB0\u0BC8\u0BB5\u0BBF\u0BA9\u0BC8 \u0B9A\u0BC7\u0BAE\u0BBF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Discard</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BB5\u0BC6\u0BB1\u0BBF\u0BAF\u0BC7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Attach File</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B95\u0BC1\u0BB5\u0BB3\u0BCD \u0B87\u0BA3\u0BC8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Link</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B87\u0BA3\u0BC8\u0BAA\u0BCD\u0BAA\u0BC8 \u0B9A\u0BC7\u0BB0\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Image</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BAA\u0B9F\u0BA4\u0BCD\u0BA4\u0BC8 \u0B9A\u0BC7\u0BB0\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Formatting</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BB5\u0B9F\u0BBF\u0BB5\u0BAE\u0BC8\u0BAA\u0BCD\u0BAA\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bold</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BA4\u0B9F\u0BBF\u0B9A\u0BCD\u0B9A\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Italic</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B9A\u0BB0\u0BBF\u0BB5\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Underline</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B95\u0BC0\u0B9A\u0BCD \u0B95\u0BCB\u0B9F\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Font Size</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B8E\u0BB4\u0BC1\u0BA4\u0BCD\u0BA4\u0BC1 \u0B85\u0BB3\u0BB5\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Font Color</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B8E\u0BB4\u0BC1\u0BA4\u0BCD\u0BA4\u0BC1 \u0BA8\u0BBF\u0BB1\u0BAE\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Background Color</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BAA\u0BBF\u0BA9\u0BCD\u0BA9\u0BA3\u0BBF \u0BA8\u0BBF\u0BB1\u0BAE\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Align Left</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B87\u0B9F\u0BA4\u0BC1 \u0B9A\u0BC7\u0BB0\u0BCD\u0BAA\u0BCD\u0BAA\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Align Center</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BA8\u0B9F\u0BC1\u0BB5\u0BBF\u0BB2\u0BCD \u0B9A\u0BC7\u0BB0\u0BCD\u0BAP\u0BCD\u0BAA\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Align Right</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BB5\u0BB2\u0BA4\u0BC1 \u0B9A\u0BC7\u0BB0\u0BCD\u0BAA\u0BCD\u0BAA\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bullet List</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BAA\u0BC1\u0BB3\u0BCD\u0BB3\u0BBF \u0BAA\u0B9F\u0BCD\u0B9F\u0BBF\u0BAE\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Numbered List</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B8E\u0BA3\u0BCD \u0BAA\u0B9F\u0BCD\u0B9F\u0BBF\u0BAE\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Schedule Send</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BA8\u0BC7\u0BB0\u0BA4\u0BCD\u0BA4\u0BBF\u0BB2\u0BCD \u0B85\u0BA9\u0BC1\u0BAA\u0BCD\u0BAA\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Send Later</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BAA\u0BBF\u0BA9\u0BCD\u0BA9\u0BB0\u0BCD \u0B85\u0BA9\u0BC1\u0BAA\u0BCD\u0BAA\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>High Priority</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B89\u0BAF\u0BB0\u0BCD \u0BAE\u0BC1\u0BA9\u0BCD\u0BA9\u0BC1\u0BB0\u0BBF\u0BAE\u0BC8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Normal Priority</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B9A\u0BBE\u0BA4\u0BBE\u0BB0\u0BA3 \u0BAE\u0BC1\u0BA9\u0BCD\u0BA9\u0BC1\u0BB0\u0BBF\u0BAE\u0BC8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Low Priority</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B95\u0BC1\u0BB1\u0BC8\u0BB5\u0BBE\u0BA9 \u0BAE\u0BC1\u0BA9\u0BCD\u0BA9\u0BC1\u0BB0\u0BBF\u0BAE\u0BC8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select All</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B85\u0BA9\u0BC8\u0BA4\u0BCD\u0BA4\u0BC8\u0BAF\u0BC1\u0BAE\u0BCD \u0BA4\u0BC7\u0BB0\u0BCD\u0BB5\u0BC1 \u0B9A\u0BC6\u0BAF\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Deselect All</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B85\u0BA9\u0BC8\u0BA4\u0BCD\u0BA4\u0BC8\u0BAF\u0BC1\u0BAE\u0BCD \u0BA4\u0BC7\u0BB0\u0BCD\u0BB5\u0BC8 \u0BA4\u0BB5\u0BBF\u0BB0\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mark as Read</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BAA\u0B9F\u0BBF\u0BA4\u0BCD\u0BA4\u0BA4\u0BBE\u0B95 \u0B95\u0BC1\u0BB1\u0BBF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mark as Unread</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BAA\u0B9F\u0BBF\u0B95\u0BCD\u0B95\u0BBE\u0BA4\u0BA4\u0BBE\u0B95 \u0B95\u0BC1\u0BB1\u0BBF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Star</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BA8\u0B9F\u0BCD\u0B9A\u0BA4\u0BCD\u0BA4\u0BBF\u0BB0\u0BAE\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Unstar</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BA8\u0B9F\u0BCD\u0B9A\u0BA4\u0BCD\u0BA4\u0BBF\u0BB0\u0BA4\u0BCD\u0BA4\u0BC8 \u0BA8\u0BC0\u0B95\u0BCD\u0B95\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mark as Important</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BAE\u0BC1\u0B95\u0BCD\u0B95\u0BBF\u0BAF\u0BAE\u0BBE\u0B95 \u0B95\u0BC1\u0BB1\u0BBF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Unmark as Important</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BAE\u0BC1\u0B95\u0BCD\u0B95\u0BBF\u0BAF\u0BAE\u0BBF\u0BB2\u0BCD\u0BB2\u0BC8 \u0B8E\u0BA9 \u0B95\u0BC1\u0BB1\u0BBF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BA8\u0BC0\u0B95\u0BCD\u0B95\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Archive</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B86\u0BB0\u0BCD\u0B95\u0BC8\u0BB5\u0BCD \u0B9A\u0BC6\u0BAY\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Move to</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B87\u0B99\u0BCD\u0B95\u0BC1 \u0BA8\u0B95\u0BB0\u0BCD\u0BA4\u0BCD\u0BA4\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Label</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BB2\u0BC7\u0BAA\u0BB2\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Snooze</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B89\u0BB1\u0B99\u0BCD\u0B95\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Forward</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BAE\u0BC1\u0BA9\u0BCD\u0BA9\u0BC7\u0BB1\u0BCD\u0BB1\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reply</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BAA\u0BA4\u0BBF\u0BB2\u0B9F\u0BBF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reply All</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B85\u0BA9\u0BC8\u0BB5\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BAE\u0BCD \u0BAA\u0BA4\u0BBF\u0BB2\u0B9F\u0BBF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Print</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B85\u0B9A\u0BCD\u0B9A\u0BBF\u0B9F\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Download</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B87\u0BB1\u0B99\u0BCD\u0B95\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sort by</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BB5\u0BB0\u0BBF\u0B9A\u0BC8\u0BAA\u0B9F\u0BC1\u0BA4\u0BCD\u0BA4\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Date</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BA4\u0BC7\u0BA4\u0BBF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sender</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B85\u0BA9\u0BC1\u0BAA\u0BCD\u0BAA\u0BC1\u0BA8\u0BB0\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Subject</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BB5\u0BBF\u0B9F\u0BAF\u0BAE\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Size</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B85\u0BB3\u0BB5\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ascending</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B8F\u0BB1\u0BC1\u0BA4\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Descending</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B87\u0BB1\u0B99\u0BCD\u0B95\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Refresh</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BAA\u0BC1\u0BA4\u0BC1\u0BAA\u0BCD\u0BAA\u0BBF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Search</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BA4\u0BC7\u0B9F\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Filter</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BB5\u0B9F\u0BBF\u0B95\u0B9F\u0BCD\u0B9F\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Show All</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B85\u0BA9\u0BC8\u0BA4\u0BCD\u0BA4\u0BC8\u0BAF\u0BC1\u0BAE\u0BCD \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Show Unread</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BAA\u0B9F\u0BBF\u0B95\u0BCD\u0B95\u0BBE\u0BA4\u0BA4\u0BC8 \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Show Starred</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BA8\u0B9F\u0BCD\u0B9A\u0BA4\u0BCD\u0BA4\u0BBF\u0BB0\u0B99\u0BCD\u0B95\u0BB3\u0BC8 \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>From</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B87\u0BB0\u0BC1\u0BA8\u0BCD\u0BA4\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B95\u0BCD\u0B95\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Date</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BA4\u0BC7\u0BA4\u0BBF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Subject</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BB5\u0BBF\u0B9F\u0BAY\u0BAE\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Attachments</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B87\u0BA3\u0BC8\u0BAA\u0BCD\u0BAA\u0BC1\u0B95\u0BB3\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Download All</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B85\u0BA9\u0BC8\u0BA4\u0BCD\u0BA4\u0BC8\u0BAF\u0BC1\u0BAE\u0BCD \u0B87\u0BB1\u0B99\u0BCD\u0B95\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reply</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BAA\u0BA4\u0BBF\u0BB2\u0B9F\u0BBF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reply All</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B85\u0BA9\u0BC8\u0BB5\u0BB0\u0BC1\u0B95\u0BCD\u0B95\u0BC1\u0BAE\u0BCD \u0BAA\u0BA4\u0BBF\u0BB2\u0B9F\u0BBF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Forward</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BAE\u0BC1\u0BA9\u0BCD\u0BA9\u0BC7\u0BB1\u0BCD\u0BB1\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BA8\u0BC0\u0B95\u0BCD\u0B95\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Archive</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B86\u0BB0\u0BCD\u0B95\u0BC8\u0BB5\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Star</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BA8\u0B9F\u0BCD\u0B9A\u0BA4\u0BCD\u0BA4\u0BBF\u0BB0\u0BAE\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Unstar</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BA8\u0B9F\u0BCD\u0B9A\u0BA4\u0BCD\u0BA4\u0BBF\u0BB0\u0BA4\u0BCD\u0BA4\u0BC8 \u0BA8\u0BC0\u0B95\u0BCD\u0B95\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mark as Spam</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BB8\u0BCD\u0BAA\u0BBE\u0BAE\u0BBE\u0B95 \u0B95\u0BC1\u0BB1\u0BBF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Not Spam</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BB8\u0BCD\u0BAA\u0BBE\u0BAE\u0BCD \u0B87\u0BB2\u0BCD\u0BB2\u0BC8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Previous</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BAE\u0BC1\u0BA8\u0BCD\u0BA4\u0BC8\u0BAF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Next</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B85\u0B9F\u0BC1\u0BA4\u0BCD\u0BA4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Back to List</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BAA\u0B9F\u0BCD\u0B9F\u0BBF\u0BAF\u0BB2\u0BC1\u0B95\u0BCD\u0B95\u0BC1 \u0BA4\u0BBF\u0BB0\u0BC1\u0BAE\u0BCD\u0BAA\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Show Original</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BAE\u0BC2\u0BB2\u0BA4\u0BCD\u0BA4\u0BC8 \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Show Details</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BB5\u0BBF\u0BB5\u0BB0\u0B99\u0BCD\u0B95\u0BB3\u0BC8 \u0B95\u0BBE\u0B9F\u0BCD\u0B9F\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hide Details</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BB5\u0BBF\u0BB5\u0BB0\u0B99\u0BCD\u0B95\u0BB3\u0BC8 \u0BAE\u0BB1\u0BC8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Print</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B85\u0B9A\u0BCD\u0B9A\u0BBF\u0B9F\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add to Contacts</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BA4\u0BC7\u0B9F\u0BC1\u0B95\u0BB3\u0BBF\u0BB2\u0BCD \u0B9A\u0BC7\u0BB0\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Attachments</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B87\u0BA3\u0BC8\u0BAA\u0BCD\u0BAA\u0BC1\u0B95\u0BB3\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Attach</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B87\u0BA3\u0BC8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BA8\u0BC0\u0B95\u0BCD\u0B95\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Download</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B87\u0BB1\u0B99\u0BCD\u0B95\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Preview</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BAE\u0BC1\u0BA9\u0BCD\u0BA8\u0BCB\u0B9F\u0BCD\u0B9F\u0BAE\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>File Size</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B95\u0BCB\u0BB5\u0BC8 \u0B85\u0BB3\u0BB5\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>File Type</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B95\u0BCB\u0BB5\u0BC8 \u0BB5\u0B95\u0BC8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Upload Progress</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BAE\u0BC7\u0BB2\u0BCD\u0BC7\u0BB1\u0BCD\u0BB1\u0BAE\u0BCD \u0BA8\u0B9F\u0BC8\u0BAA\u0BC7\u0BB1\u0BC1\u0BA4\u0BB2\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Upload Complete</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BAE\u0BC7\u0BB2\u0BCD\u0BC7\u0BB1\u0BCD\u0BB1\u0BAE\u0BCD \u0BAE\u0BC1\u0B9F\u0BBF\u0BA8\u0BCD\u0BA4\u0BA4\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Upload Failed</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BAE\u0BC7\u0BB2\u0BCD\u0BC7\u0BB1\u0BCD\u0BB1\u0BAE\u0BCD \u0BA4\u0BCB\u0BB2\u0BCD\u0BB5\u0BBF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Maximum file size exceeded</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B85\u0BA4\u0BBF\u0B95\u0BAA\u0B9F\u0BCD\u0B9A \u0B95\u0BCB\u0BB5\u0BC8 \u0B85\u0BB3\u0BB5\u0BC1 \u0BAE\u0BC0\u0BB1\u0BAA\u0BCD\u0BAA\u0B9F\u0BCD\u0B9F\u0BA4\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Invalid file type</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B85\u0BA9\u0BC1\u0BAE\u0BA4\u0BBF\u0B95\u0BCD\u0B95\u0BAA\u0BCD\u0BAA\u0B9F\u0BBE\u0BA4 \u0B95\u0BCB\u0BB5\u0BC8 \u0BB5\u0B95\u0BC8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Drag and drop files here or click to browse</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B95\u0BCB\u0BB5\u0BC8\u0B95\u0BB3\u0BC8 \u0B87\u0B99\u0BCD\u0B95\u0BC7 \u0B87\u0BB4\u0BC1\u0B95\u0BCD\u0B95\u0BB5\u0BC1\u0BAE\u0BCD \u0BA4\u0BC1\u0B95\u0BCD\u0B95\u0BB5\u0BC1\u0BAE\u0BCD \u0B85\u0BB2\u0BCD\u0BB2\u0BA4\u0BC1 \u0BAA\u0BBE\u0BB0\u0BCD\u0B95\u0BCD\u0B95 \u0B95\u0BCD\u0BB3\u0BBF\u0B95\u0BCD \u0B9A\u0BC6\u0BAF\u0BCD\u0BAF\u0BB5\u0BC1\u0BAE\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Search</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BA4\u0BC7\u0B9F\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Search Mail</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BAE\u0BC6\u0BAF\u0BBF\u0BB2\u0BC8 \u0BA4\u0BC7\u0B9F\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Advanced Search</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BAE\u0BC1\u0BA9\u0BCD\u0BA9\u0B9F\u0BBF\u0BB5 \u0BA4\u0BC7\u0B9F\u0BB2\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>From</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B87\u0BB0\u0BC1\u0BA8\u0BCD\u0BA4\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B95\u0BCD\u0B95\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Subject</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BB5\u0BBF\u0B9F\u0BAY\u0BAE\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Message Body</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B9A\u0BC6\u0BAF\u0BCD\u0BA4\u0BBF \u0B89\u0BB3\u0BCD\u0BB3\u0B9F\u0B95\u0BCD\u0B95\u0BAE\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Date</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BA4\u0BC7\u0BA4\u0BBF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Date Range</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BA4\u0BC7\u0BA4\u0BBF \u0BB5\u0BBC6\u0BB3\u0BCD\u0BB3\u0BC8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Has Attachment</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0B87\u0BA3\u0BC8\u0BAA\u0BCD\u0BAA\u0BC1 \u0B89\u0BB3\u0BCD\u0BB3\u0BA4\u0BC1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Search Results</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BA4\u0BC7\u0B9F\u0BB2\u0BCD \u0BAE\u0BC1\u0B9F\u0BBF\u0BB5\u0BC1\u0B95\u0BB3\u0BCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No results found</seg>
+      </tuv>
+      <tuv xml:lang="ta">
+        <seg>\u0BAE\u0BC1\u0B9F\u0BBF\u0BB5\u0BC1\u0B95\u0BB3\u0BCD \u0B95\u0BBF\u0B9F\u0BC8\u0B95\u0BCD\u0B95\u0BB5\u0BBF\u0BB</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
