@@ -137,3 +137,7 @@ streamlit run app/streamlit_app.py
 - Machine learning for match prediction
 - API load balancing
 - Extended TMX format support
+
+
+
+So as in for making the upadted version of the same rather than just sticking on to the Sarvam API, it can be extended as an hybrid approach by incorporating both of the API and the Translation Memory together so that the Sarvam API, can act as a fallback mechanism to the words that are not present in the Translation memory. So, then the workflow would be like the word which is supposedly is to be translated into the desired language first the model shall perform some similarity check task in the existing translation memory and then upon checking in that if the exact words or rather the splits of a large paragraph is being set in there it shall return  the translated verrsion of the original text which had been inputted by the user, but if it is not present in the knowledge base which is the database in which the translation memory is present in it shall then access the Sarvam API for the translation which can provide with the real time translation for any of the resources the user inputs in their desired language. By doing this it can be scaled up to a bigger level and can be used very well in industries as well, which makes this approach the penultimate task for the corporates to stick on with. 
